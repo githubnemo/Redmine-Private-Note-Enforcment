@@ -1,2 +1,2 @@
 en:
-  create_public_notes: "Can only create private comments"
+  permission_create_public_notes: "Create public notes"
